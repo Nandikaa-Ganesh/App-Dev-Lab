@@ -1,0 +1,15 @@
+#info{
+    background-image: url("field1.jpg");
+}
+
+#header{
+    height: 200px;
+    width: 100%;
+    font-weight: 600;
+    font-family: 'Inter', Courier, monospace;
+    background-color: rgb(28, 70, 31);
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
